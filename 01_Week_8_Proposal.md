@@ -5,7 +5,7 @@
 **Members:** Alano, Balangue, Cubol, Espiritu, Fernandez, & Tilo
 
 **Repository URL:** [https\://github.com/paulineashleybalangue-dsa/DSA4153\_Healthcare\_FinalProject.git](https://github.com/paulineashleybalangue-dsa/DSA4153_Healthcare_FinalProject.git)   
-**Current Commit Identifier:**  d18449264202535e60bc9ef11e6bdbc6967d1efb
+**Current Commit Identifier:**  b12061a4fb3ab112ad2454085681fb8fc2638d6b
 
 **PROBLEM:**  
 The COVID-19 pandemic highlighted the importance of adequate public healthcare resources in the Philippines during 2020–2023. Differences in the distribution of government medical practitioners, the number of government hospitals and their authorized beds, and barangay health stations may contribute to unequal healthcare availability across regions. This study will examine these regional differences and identify areas with relatively low resource availability, considering population size where suitable data are available.
