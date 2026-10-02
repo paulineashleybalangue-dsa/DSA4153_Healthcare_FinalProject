@@ -42,14 +42,10 @@ Record actual completed work and link to supporting files, commits, or pull requ
 
 ## Week 8 Instructor Feedback
 
-**Check-in Date:** Pending  
+**Check-in Date:** October 3, 2026  
 **Instructor Decision:** Pending Week 8 check-in  
 **Possible Decisions:** Approved / Approved with revisions / Revise and resubmit
 
 | Required Change or Action | Owner | Agreed Follow-up Date | Status | Completion Evidence |
 |---|---|---|---|---|
 | Pending instructor feedback | To be assigned | To be agreed | Pending | — |
-
-## Follow-up Record
-
-After the check-in, update each required action with its owner, agreed date, and evidence of completion. Carry this record into the next milestone.
