@@ -25,6 +25,6 @@ python -m pip install pandas
 
 From the repository root, run:
 
-python src/inspect_data.py
+python src/inspections.py
 
 The script displays sample records, shapes, column names, data types, missing-cell counts, and duplicate-row counts for all five datasets.
