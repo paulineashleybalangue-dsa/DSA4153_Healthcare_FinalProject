@@ -1,5 +1,30 @@
 # DSA4153_Healthcare_FinalProject
 
-Formatting-only cleanup of original PSA tables. All original years, separate professions, national totals, and geographic detail retained. No sums, ratios, year filtering, or imputation performed. Multirow headers flattened; year added to each practitioner row from the original year heading. Blank spacing and repeated page headings removed. Footnote flags retained in headers or population note columns; see `Source_notes.csv` and original workbook. Missing population markers retained as supplied. Blank footnote cells are not missing population observations. CSV contains no styles, merged cells, or multiple tabs.
+Week 8 proposal and initial data inspection for a study of public healthcare resource distribution across Philippine regions during 2020–2023.
 
-Run: `python src/inspect_data.py`
+## Data Preparation
+
+The CSVs contain formatting-only cleanup of the original PSA tables. All source years, separate professions, national totals, geographic detail, and ownership categories are retained. No aggregation, ratios, year filtering, or imputation have been performed.
+
+Multirow headers were flattened, year labels were added to practitioner rows, and blank spacing and repeated page headings were removed. Population note columns were removed; source notes and annotations are documented in `data/source_notes/Source_notes.csv`. Practitioner footnote flags remain in regional column headers.
+
+Missing population markers are retained as supplied and may not be detected by the initial missing-cell check. Selection of regional totals, government hospital and bed categories, and 2020–2023 records is planned for the cleaning stage.
+
+## Source
+
+Philippine Statistics Authority, Philippine Statistical Yearbook:
+https://psa.gov.ph/philippine-statistical-yearbook
+
+Health tables use Department of Health data.
+
+## Run the Initial Inspection
+
+Install pandas:
+
+python -m pip install pandas
+
+From the repository root, run:
+
+python src/inspect_data.py
+
+The script displays sample records, shapes, column names, data types, missing-cell counts, and duplicate-row counts for all five datasets.
