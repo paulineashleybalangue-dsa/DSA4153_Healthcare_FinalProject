@@ -1,0 +1,58 @@
+﻿table,source_row,text
+T1_1,181,Notes:
+T1_1,184,"1 The Negros Island Region (NIR) was abolished through Executive Order No. 38, ""Revoking Executive Order NO. 183 (s. 2015) which created a Negros Island and for Other Purposes"", signed by 
+  President Rodrigo Roa Duterte on 07 August 2017. The abolition of NIR reverted the provinces, cities, municipalities, and barangays of Negros Occidental and City of Bacolod to Region VI (Western Visayas)  
+  and Negros Oriental to Region VII (Central Visayas)."
+T1_1,185,"2 Renamed province from Compostela Valley under Republic Act No. 11297, dated April 17, 2019; ratified on December 7, 2019."
+T1_1,186,"3 Renamed region from ARMM under Republic Act No.11054, dated July 27, 2018; ratified on January 25, 2019."
+T1_1,187,"4 Excludes 10 barangays transferred to the City of Taguig, in accordance with the Supreme Court decision in General Register (G.R.) 235316 dated 01 December 2021."
+T1_1,188,"5 Includes 10 barangays transferred from the City of Makati, in accordance with the Supreme Court decision in GR 235316 dated 01 December 2021."
+T1_1,189,6 Re-established into a region under Republic Act (RA) No. 12000 dated 11 June 2024.
+T1_1,190,7 Transferred province under RA No. 12000; taken from Region VI - Western Visayas.
+T1_1,191,8 Transferred province under RA No. 12000; taken from Region VII - Central Visayas.
+T1_1,192,9 Created into a province through the division of the Province of Maguindanao under RA No. 11550; ratified on 17 September 2022.
+T1_1,193,10 Renamed from Interim Province; comprised of eight newly created municipalities under the Bangsamoro Autonomy Act Nos. 41 to 48 dated 15 September 2022; ratified on 13 April 2024.
+T1_1,194,"a1 Land area is based on the cadastral survey and estimated land areas (certified and provided to the Department of Budget and Management) from the Land Management Bureau, "
+T1_1,195,"      Department of Environment and Natural Resources, as of December 2013."
+T1_1,196,"a2 Due to unfinished cadastral survey, details do not add up to the national total."
+T1_1,197,"a3 Due to rounding off, the provincial totals may not be equal to the sum of the individual figures."
+T1_1,199,"a Population counts for the regions do not add up to the national total.  Excludes 18,989 persons residing in the areas disputed by the City of Pasig (National Capital Region) and the province of Rizal (Region IV-A); 
+  and 2,851 Filipinos in Philippine embassies, consulates and missions abroad."
+T1_1,200,"b Population counts for the regions do not add up to the national total.  Excludes 2,279 Filipinos in Philippine Embassies, Consulates and Mission Abroad."
+T1_1,201,"c Population counts for the regions do not add up to the national total.  Excludes 2,739 Filipinos in Philippine Embassies, Consulates and Mission Abroad."
+T1_1,202,"d Population counts for the regions do not add up to the national total.  Excludes 2,134 Filipinos in Philippine Embassies, Consulates and Mission Abroad."
+T1_1,203,"e Population counts for the regions do not add up to the national total.  Excludes 2,098 Filipinos in Philippine Embassies, Consulates and Missions Abroad."
+T1_1,204,"f Population counts for the regions do not add up to the national total. Includes 1,708 Filipinos in Philippine embassies, consulates, and mission abroad."
+T1_1,205,g Per PSA Board Resolution No. 13 Series of 2021 - Approving and Adopting the Third Quarter 2021 Philippine Standard Geographic Code Updates to Include the 
+T1_1,206,     Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) and Correct the Names of 37 Barangays.
+T1_1,207,h Excluding 63 barangays now part of BARMM.
+T1_1,208,i Population counts for the provinces exclude the counts of Highly Urbanized Cities.
+T1_1,209,j Not a Province/HUC.
+T1_1,211,"Sources: Philippine Statistics Authority, Census of Population and Housing"
+T1_1,212,"                  and Land Management Bureau, Department of Environment and Natural Resources, 2013 Masterlist of Land Areas of Cities and Municipalities"
+T9_14,72,a Combination of retained medical personnel at the Regional Health Office (RHOs) and devolved health personnel in the local government units (LGUs)
+T9_14,73,b 2012-2021 Devolved/absorbed health personnel by the LGUs
+T9_14,75,Source: Department of Health - Field Health Services Information System
+T9_17,26,Notes: 
+T9_17,27,Table 9.17 is a new format that combined Tables 9.17 and 9.17a from the previous release of PSY. No data available for 2016–2019.
+T9_17,28,a data as of 30 June 2023
+T9_17,30,"Source: Department of Health, Health Facilities and Services Regulatory Bureau"
+T9_18,26,Notes: 
+T9_18,27,Table 9.18 is a new format from the previous release of PSY. No data available for 2016–2019.
+T9_18,28,a data as of 31 December 2020
+T9_18,29,b data as of 31 December 2021
+T9_18,30,c data as of 31 December 2022
+T9_18,32,"Source: Department of Health, Health Facilities and Services Regulatory Bureau"
+T9_19,26,"Source: Department of Health, Field Health Service Information System"
+T1_1,CSV row 2,"Philippines, 2000 population footnote: a"
+T1_1,CSV row 2,"Philippines, 2007 population footnote: b"
+T1_1,CSV row 2,"Philippines, 2010 population footnote: c"
+T1_1,CSV row 2,"Philippines, 2015 population footnote: d"
+T1_1,CSV row 2,"Philippines, 2020 population footnote: e"
+T1_1,CSV row 2,"Philippines, 2024 population footnote: f"
+T1_1,CSV row 15,"City of Makati, 2024 population footnote: 4.0"
+T1_1,CSV row 20,"Taguig City, 2024 population footnote: 5.0"
+T1_1,CSV row 102,"City of Isabela, 2024 population footnote: j"
+T1_1,CSV row 119,"Cotabato (North Cotabato), 2020 population footnote: g,h"
+T1_1,CSV row 125,"Region XIII (Caraga), 2020 population footnote: g"
+T1_1,CSV row 132,"Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) 3, 2020 population footnote: g"
